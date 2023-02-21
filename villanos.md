@@ -2,5 +2,4 @@
 
  * Doctor doom
  * Red skull
- * Doctor Fernando
- 
+ * Capita America
